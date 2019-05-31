@@ -2,7 +2,7 @@
 title: "Filter: apply"
 description: "Apply the given filter criteria on the given column."
 localization_priority: Normal
-author: ""
+author: "sumurthy"
 ms.prod: <ms.prod>
 doc_type: apiPageType
 ---

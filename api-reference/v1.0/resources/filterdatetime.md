@@ -2,7 +2,7 @@
 title: "FilterDatetime resource type"
 description: "Represents how to filter a date when filtering on values."
 localization_priority: Normal
-author: ""
+author: "sumurthy"
 ms.prod: <ms.prod>
 doc_type: resourcePageType
 ---

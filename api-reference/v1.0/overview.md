@@ -2,7 +2,7 @@
 title: "Microsoft Graph REST API v1.0 reference"
 description: "Welcome to Microsoft Graph REST API reference for the v1.0 endpoint."
 localization_priority: Priority
-author: ""
+author: "jthake-msft"
 ms.prod: <ms.prod>
 doc_type: conceptualPageType
 ---

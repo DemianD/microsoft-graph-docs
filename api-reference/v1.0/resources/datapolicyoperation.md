@@ -1,7 +1,7 @@
 ---
 title: <title>
 description: <description>
-author: ""
+author: "gababu"
 localization_priority: Normal
 ms.prod: "microsoft-identity-platform"
 doc_type: resourcePageType

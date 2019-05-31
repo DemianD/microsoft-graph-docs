@@ -2,7 +2,7 @@
 title: "workingHours resource type"
 description: "Represents the days of the week and hours in a specific time zone that the user works."
 localization_priority: Normal
-author: ""
+author: "angelgolfer-ms"
 ms.prod: <ms.prod>
 doc_type: resourcePageType
 ---

@@ -3,7 +3,7 @@ title: "Get a DriveItemVersion resource"
 description: "Retrieve the metadata for a specific version of a DriveItem."
 localization_priority: Normal
 ms.prod: "sharepoint"
-author: ""
+author: "kevklam"
 doc_type: apiPageType
 ---
 

@@ -2,7 +2,7 @@
 title: "List NamedItemCollection"
 description: "Retrieve a list of nameditem objects."
 localization_priority: Normal
-author: ""
+author: "sumurthy"
 ms.prod: <ms.prod>
 doc_type: apiPageType
 ---

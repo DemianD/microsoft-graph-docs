@@ -2,7 +2,7 @@
 title: "phone resource type"
 description: "Represents a phone number."
 localization_priority: Normal
-author: ""
+author: "tlenig"
 ms.prod: <ms.prod>
 doc_type: resourcePageType
 ---

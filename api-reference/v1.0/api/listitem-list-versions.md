@@ -3,7 +3,7 @@ title: "Listing versions of a ListItem"
 description: "SharePoint can be configured to retain the history for list items."
 localization_priority: Normal
 ms.prod: "sharepoint"
-author: ""
+author: "kevklam"
 doc_type: apiPageType
 ---
 

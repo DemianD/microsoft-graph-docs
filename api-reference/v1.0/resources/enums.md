@@ -2,7 +2,7 @@
 title: "Enum values"
 description: "Microsoft Graph enumeration values."
 localization_priority: Normal
-author: ""
+author: "daspek"
 ms.prod: <ms.prod>
 doc_type: enumPageType
 ---

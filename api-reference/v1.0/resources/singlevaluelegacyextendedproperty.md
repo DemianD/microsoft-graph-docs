@@ -2,7 +2,7 @@
 title: "singleValueLegacyExtendedProperty resource type"
 description: "An extended property that contains a single value. "
 localization_priority: Normal
-author: ""
+author: "angelgolfer-ms"
 ms.prod: <ms.prod>
 doc_type: resourcePageType
 ---

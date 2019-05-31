@@ -2,7 +2,7 @@
 title: "Delete inferenceClassificationOverride"
 description: "Delete an override specified by its ID."
 localization_priority: Normal
-author: ""
+author: "angelgolfer-ms"
 ms.prod: <ms.prod>
 doc_type: apiPageType
 ---
